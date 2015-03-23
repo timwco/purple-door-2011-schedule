@@ -1,0 +1,74 @@
+.landscape, .landscape .ui-page {
+	background: #000;
+}
+.ui-page {
+	background: #000;
+}
+.ui-mobile, .ui-mobile body {
+    height: 100%;
+    background: #000;
+}
+jquery...ss?ver3 (line 16)
+.ui-mobile-viewport {
+    margin: 0;
+    overflow-x: hidden;
+    background: #000;
+}
+
+.ui-content {
+	color: #FFF;
+    border-radius: 0 0 10px 10px;
+    background: #000!important;
+}
+.logo {
+	width:342px;
+	margin: 0 auto;
+	background: #000!important;
+}
+
+.ui-li .ui-btn-inner a.ui-link-inherit, .ui-li-static.ui-li { padding-right: 15px !important; }
+
+
+body .ui-bar-b {
+    background: #6D3C98 !important;
+    border: 1px solid #6D3C98 !important;
+} 
+
+body .ui-btn-up-b {
+    background: #6D3C98 !important;
+    border: 1px solid #6D3C98 !important;
+}
+body .ui-bar-b:hover {
+    background: #6D3C98 !important;
+    border: 1px solid #6D3C98 !important;
+}
+body .ui-btn-up-b:hover {
+    background: #6D3C98 !important;
+    border: 1px solid #6D3C98 !important;
+}
+  
+body .ui-btn-active {
+	background: #6D3C98 !important;
+	border: 1px solid #000000 !important;
+	text-shadow: 0 -1px 1px #6D3C98 !important;
+}
+
+body .ui-btn-active:hover {
+	background: #6D3C98 !important;
+	border: 1px solid #000000 !important;
+	text-shadow: 0 -1px 1px #6D3C98 !important;
+}
+
+body .ui-body-c { 
+	text-shadow: none !important;
+}
+
+body .ui-body-c .ui-link {
+    color: #A581E3 !important;
+}
+.ui-content .ui-listview {
+    background: none repeat scroll 0 0 #000000;
+}
+.ui-body-b .ui-link {
+    color: #A581E3 !important;
+}
